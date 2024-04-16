@@ -9,8 +9,8 @@ import Blockchain from "./components/Blockchain.vue";
 const router = createRouter({
   history: createWebHistory(),
   routes: [
-    { path: '/section1', component: Desktop },
-    { path: '/section2', component: Blockchain },
+    { path: '/vue-task-desktop-blockchain/section1', component: Desktop },
+    { path: '/vue-task-desktop-blockchain/section2', component: Blockchain },
   ]
 });
 

@@ -1,29 +1,9 @@
-# vue-task-desktop-blockchain
+# task-desktop-blockchain
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. Technologies Used:
+    - Vue.js: The choice of Vue.js is justified by its ease of use, rapid development speed, and efficiency. Vue offers an excellent reactivity system that allows easy state management and component building.
+    - Vue Router: Vue Router enables you to create routes for different sections of your application and provides navigation between them. Using Vue Router makes it easy to organize and manage the routes of your application.
+    - WebSocket: For interaction with the Blockchain server, you are using WebSocket, which provides communication with the server and the retrieval of streaming data about new transactions.
+    - Tailwind CSS: Tailwind CSS offers a simple and straightforward approach to styling, allowing you to quickly and efficiently create the appearance of components.
+2. Preview:
+    - [Preview](https://myplekan.github.io/vue-task-desktop-blockchain/)
